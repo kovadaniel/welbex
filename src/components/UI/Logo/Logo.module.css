@@ -1,0 +1,23 @@
+.head{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 35.05px;
+    height: 24px;
+}
+
+.title{
+    width: 96px;
+    height: 15px;
+    margin-left: 8px;
+    /*background-repeat: no-repeat;*/
+    /*background-position: left center;*/
+}
+
+.body{
+    margin-top: 10px;
+    width: 140px;
+    font: 300 10px Montserrat;
+}
