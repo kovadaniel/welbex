@@ -301,7 +301,7 @@ main{
     content: "";
     display: inline-block;
     width: 10px;
-    height: 1px;
+    height: 1.1px;
     background: linear-gradient(to right, #FCB045, #FF3F78);
     margin-bottom: 5px;
     margin-right: 5px;
